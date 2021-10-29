@@ -38,6 +38,6 @@ for row in range(1, row_num+1):
 data={'姓名':name,'均绩':all_student_gpa}
 df=DataFrame(data)
 df.to_excel('result.xlsx')
-
+#ok
 
 
